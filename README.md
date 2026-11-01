@@ -1,43 +1,36 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Subbu — software craftsman building calmer software for curious minds" width="100%" />
+  <img src="./assets/header.svg" alt="Subbu's terminal dashboard — Neovim, systems design, and cricket" width="100%" />
 </p>
 
-I like software that gives attention back instead of taking it. I build small,
-opinionated products, developer tools, and systems experiments from Bangalore.
+> **`su66uu` is `subbu`, translated for the terminal.**
 
-```console
-$ subbu --optimizes-for
-clarity > cleverness
-curiosity > feeds
-shipping > collecting badges
+My preferred interface is a prompt. I learned Vim, moved completely to
+Neovim, and now feel most at home in a terminal. Away from the keyboard, you
+will usually find me playing or following cricket. Back at it, I am currently
+going deeper into systems and how their pieces fit together.
+
+```vim
+:set editor=neovim
+:set playground=cricket
+:set learning=systems-design
+:set status=curious
 ```
 
-### Selected work
+### `~/projects`
 
-| | Project | What it does |
-|:--:|---|---|
-| `01` | **[FirstCommit](https://github.com/su66uu/FirstCommit)** | Opens a repository's very first commit in a tiny terminal-style browser extension. Available for [Chrome](https://chromewebstore.google.com/detail/pmmgmaddffapapaldcfaodimkijdplok) and [Firefox](https://addons.mozilla.org/firefox/addon/firstcommit/). |
-| `02` | **[Pulse](https://github.com/su66uu/pulse)** | Makes maintenance drag visible by tracking code health, complexity, churn, and hotspots over time. |
-| `03` | **[Drift](https://github.com/su66uu/drift)** | Offers one fascinating technical problem when you need a better distraction—finite by design. |
-| `04` | **[And I Snap!](https://github.com/su66uu/snap)** | A local-first browser extension designed to turn YouTube distractions into dust. |
-
-### Current working set
-
-```text
-protecting attention        ███████░░░  building
-making complexity legible  ██████░░░░  building
-distributed systems        ████░░░░░░  learning by doing
-```
-
-Lately: **Go**, **TypeScript**, **Elixir**, browser extensions, local-first
-software, and products that know when to end.
+| shortcut | opens |
+|---|---|
+| [`git first`](https://github.com/su66uu/FirstCommit) | **FirstCommit** — see a repository's first commit in a terminal-style browser extension. |
+| [`pulse scan`](https://github.com/su66uu/pulse) | **Pulse** — follow code health, complexity, churn, and hotspots over time. |
+| [`drift`](https://github.com/su66uu/drift) | **Drift** — trade an endless feed for one fascinating technical problem. |
+| [`snap --youtube`](https://github.com/su66uu/snap) | **And I Snap!** — a local-first experiment in taking attention back from YouTube. |
 
 <p align="center">
   <a href="https://su66u.com">website</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/venkata-subbarao-myla-b45b14135/">linkedin</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/su66uu?tab=repositories">all projects</a>
+  <a href="https://github.com/su66uu?tab=repositories">repositories</a>
 </p>
 
-<p align="center"><sub>less feed · more curiosity</sub></p>
+<p align="center"><sub><code>:w</code> keeps the work · curiosity keeps me here</sub></p>
