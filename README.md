@@ -14,11 +14,6 @@ local subbu = {
 return subbu
 ```
 
-I learnt Vim and eventually moved to Neovim completely. The terminal is where
-I feel at home, cricket is where I switch off, and systems are what I am
-currently curious about—especially how their pieces interact and why particular
-design trade-offs are made.
-
 ### 🛠️ `~/projects`
 
 | shortcut | opens |
