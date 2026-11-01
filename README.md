@@ -1,20 +1,23 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="Subbu's terminal dashboard — Neovim, systems design, and cricket" width="100%" />
-</p>
+# Hi, I'm Subbu.
 
-> **`su66uu` is `subbu`, translated for the terminal.**
+```lua
+-- ~/about/subbu.lua
 
-My preferred interface is a prompt. I learned Vim, moved completely to
-Neovim, and now feel most at home in a terminal. Away from the keyboard, you
-will usually find me playing or following cricket. Back at it, I am currently
-going deeper into systems and how their pieces fit together.
+local subbu = {
+  habitat = "terminal",
+  editor = "neovim",
+  offscreen = "cricket",
+  exploring = "systems and their design",
+  status = "curiosity: not out",
+}
 
-```vim
-:set editor=neovim
-:set playground=cricket
-:set learning=systems-design
-:set status=curious
+return subbu
 ```
+
+I learnt Vim and eventually moved to Neovim completely. The terminal is where
+I feel at home, cricket is where I switch off, and systems are what I am
+currently curious about—especially how their pieces interact and why particular
+design trade-offs are made.
 
 ### `~/projects`
 
