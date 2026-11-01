@@ -1,4 +1,4 @@
-# Hi, I'm Subbu 👋
+# Hello 👋
 
 ```lua
 -- ~/about/subbu.lua
