@@ -1,13 +1,13 @@
-# Hi, I'm Subbu.
+# Hi, I'm Subbu 👋
 
 ```lua
 -- ~/about/subbu.lua
 
 local subbu = {
-  habitat = "terminal",
+  habitat = "terminal ⌨️",
   editor = "neovim",
-  offscreen = "cricket",
-  exploring = "systems and their design",
+  offscreen = "cricket 🏏",
+  exploring = "systems and their design 🧩",
   status = "curiosity: not out",
 }
 
@@ -19,7 +19,7 @@ I feel at home, cricket is where I switch off, and systems are what I am
 currently curious about—especially how their pieces interact and why particular
 design trade-offs are made.
 
-### `~/projects`
+### 🛠️ `~/projects`
 
 | shortcut | opens |
 |---|---|
@@ -36,4 +36,4 @@ design trade-offs are made.
   <a href="https://github.com/su66uu?tab=repositories">repositories</a>
 </p>
 
-<p align="center"><sub><code>:w</code> keeps the work · curiosity keeps me here</sub></p>
+<p align="center"><sub><code>:w</code> keeps the work · 🌱 curiosity keeps me here</sub></p>
